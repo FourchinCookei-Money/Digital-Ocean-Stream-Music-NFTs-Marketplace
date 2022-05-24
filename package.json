@@ -1,0 +1,40 @@
+{
+  "name": "digital-ocean-stream-nft",
+  "version": "0.1.0",
+  "description": "A centralized data on a decentralized platform for the creative one. Now Music Artists & Art Artists will have the opportunity to collaborate, developing Music NFTs, With Royalties Splits, built with the contracts.",
+  "author": "gregory@dappuniversity.com",
+  "dependencies": {
+    "babel-polyfill": "7.0.0-alpha.20",
+    "babel-preset-env": "2.0.0-alpha.20",
+    "babel-preset-es2015": "7.0.0-alpha.20",
+    "babel-preset-stage-2": "7.0.0-alpha.20",
+    "babel-preset-stage-3": "6.24.1",
+    "babel-register": "7.0.0-alpha.20",
+    "bootstrap": "5.1.3",
+    "chai": "4.3.6",
+    "chai-as-promised": "7.1.1",
+    "chai-bignumber": "3.0.0",
+    "react": "18.1.0",
+    "react-bootstrap": "2.3.1",
+    "react-dom": "18.1.0",
+    "react-scripts": "5.0.1",
+    "truffle": "5.5.12",
+    "web3": "1.7.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": []
+}
